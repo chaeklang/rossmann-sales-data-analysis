@@ -1,0 +1,9 @@
+column,dtype,missing_count,missing_pct,n_unique
+Open,float64,11,0.03,2
+Id,int64,0,0.0,41088
+Store,int64,0,0.0,856
+DayOfWeek,int64,0,0.0,7
+Date,object,0,0.0,48
+Promo,int64,0,0.0,2
+StateHoliday,string,0,0.0,2
+SchoolHoliday,int64,0,0.0,2

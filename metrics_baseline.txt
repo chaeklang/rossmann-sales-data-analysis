@@ -1,0 +1,3 @@
+Validation cutoff_date: 2015-06-19 00:00:00
+MAE: 1741.88
+RMSE: 2456.73

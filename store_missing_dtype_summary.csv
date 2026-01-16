@@ -1,0 +1,11 @@
+column,dtype,missing_count,missing_pct,n_unique
+Promo2SinceWeek,float64,544,48.79,24
+Promo2SinceYear,float64,544,48.79,7
+PromoInterval,object,544,48.79,3
+CompetitionOpenSinceMonth,float64,354,31.75,12
+CompetitionOpenSinceYear,float64,354,31.75,23
+CompetitionDistance,float64,3,0.27,654
+Store,int64,0,0.0,1115
+StoreType,object,0,0.0,4
+Assortment,object,0,0.0,3
+Promo2,int64,0,0.0,2
